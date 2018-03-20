@@ -1,2 +1,2 @@
 # Git Ex
-## simple is power
+## simple is power!!
